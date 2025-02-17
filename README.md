@@ -30,6 +30,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SUMITDROY/SUMITDROY/output/snake.svg" alt="Snake animation" />
 
 ###
