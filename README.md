@@ -6,11 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
 
-###
-
-<p align="left">🌱 Learning HTML , CSS & JAVASCRIPT | Creating web magic   <br>🔨 Building projects one div at a time  <br>🗣️ Passionate about crafting user-friendly interfaces  <br>🚀 Currently exploring responsive design & CSS animations  <br>📚 Documenting my coding journey</p>
 
 ###
 
